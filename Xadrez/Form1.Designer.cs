@@ -64,6 +64,7 @@
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.peãoB1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.peãoB2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.peãoB3)).BeginInit();
@@ -96,6 +97,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.peãoP7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.peãoP6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.peãoP5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // peãoB1
@@ -507,6 +509,17 @@
             this.label1.TabIndex = 43;
             this.label1.Text = "0.000";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox1.BackgroundImage = global::Xadrez.Properties.Resources.PeãoP;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox1.Location = new System.Drawing.Point(430, 217);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(197, 178);
+            this.pictureBox1.TabIndex = 44;
+            this.pictureBox1.TabStop = false;
+            // 
             // Xadrez
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -514,6 +527,7 @@
             this.BackgroundImage = global::Xadrez.Properties.Resources.Tabuleiro;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(1042, 635);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.peãoP8);
@@ -586,6 +600,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.peãoP7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.peãoP6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.peãoP5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -628,6 +643,7 @@
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

@@ -18,3 +18,13 @@ D:\Xadrez\Xadrez\obj\Debug\Xadrez.pdb
 D:\Xadrez\Xadrez\bin\Debug\Xadrez.exe.config
 D:\Xadrez\Xadrez\bin\Debug\Xadrez.exe
 D:\Xadrez\Xadrez\bin\Debug\Xadrez.pdb
+C:\Users\pedri\Documents\12 - GitHub\XadrezPVP\Xadrez\bin\Debug\Xadrez.exe.config
+C:\Users\pedri\Documents\12 - GitHub\XadrezPVP\Xadrez\bin\Debug\Xadrez.exe
+C:\Users\pedri\Documents\12 - GitHub\XadrezPVP\Xadrez\bin\Debug\Xadrez.pdb
+C:\Users\pedri\Documents\12 - GitHub\XadrezPVP\Xadrez\obj\Debug\Xadrez.csproj.AssemblyReference.cache
+C:\Users\pedri\Documents\12 - GitHub\XadrezPVP\Xadrez\obj\Debug\Xadrez.Xadrez.resources
+C:\Users\pedri\Documents\12 - GitHub\XadrezPVP\Xadrez\obj\Debug\Xadrez.Properties.Resources.resources
+C:\Users\pedri\Documents\12 - GitHub\XadrezPVP\Xadrez\obj\Debug\Xadrez.csproj.GenerateResource.cache
+C:\Users\pedri\Documents\12 - GitHub\XadrezPVP\Xadrez\obj\Debug\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\pedri\Documents\12 - GitHub\XadrezPVP\Xadrez\obj\Debug\Xadrez.exe
+C:\Users\pedri\Documents\12 - GitHub\XadrezPVP\Xadrez\obj\Debug\Xadrez.pdb
